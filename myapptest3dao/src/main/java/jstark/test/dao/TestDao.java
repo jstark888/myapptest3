@@ -5,4 +5,5 @@ package jstark.test.dao;
  */
 public class TestDao {
 
+    private String someField;
 }
