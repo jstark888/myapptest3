@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/myapptest3.iml" filepath="$PROJECT_DIR$/myapptest3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapptest3dao/myapptest3dao.iml" filepath="$PROJECT_DIR$/myapptest3dao/myapptest3dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapptest3service/myapptest3service.iml" filepath="$PROJECT_DIR$/myapptest3service/myapptest3service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mytestapp3webapp1/mytestapp3webapp1.iml" filepath="$PROJECT_DIR$/mytestapp3webapp1/mytestapp3webapp1.iml" />
+    </modules>
+  </component>
+</project>
